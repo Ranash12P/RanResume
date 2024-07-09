@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RanPolacCV/static/css/main.20dd2349.css",
+    "main.js": "/RanPolacCV/static/js/main.0195a953.js",
+    "static/js/453.a3ba6d2e.chunk.js": "/RanPolacCV/static/js/453.a3ba6d2e.chunk.js",
+    "static/media/ran_photo.jpeg": "/RanPolacCV/static/media/ran_photo.98491701693f11e46d10.jpeg",
+    "index.html": "/RanPolacCV/index.html",
+    "main.20dd2349.css.map": "/RanPolacCV/static/css/main.20dd2349.css.map",
+    "main.0195a953.js.map": "/RanPolacCV/static/js/main.0195a953.js.map",
+    "453.a3ba6d2e.chunk.js.map": "/RanPolacCV/static/js/453.a3ba6d2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20dd2349.css",
+    "static/js/main.0195a953.js"
+  ]
+}
