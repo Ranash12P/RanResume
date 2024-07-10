@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RanResume/static/css/main.a708cc49.css",
-    "main.js": "/RanResume/static/js/main.9d2be58e.js",
+    "main.css": "/RanResume/static/css/main.6fccd648.css",
+    "main.js": "/RanResume/static/js/main.49c801aa.js",
     "static/js/453.a3ba6d2e.chunk.js": "/RanResume/static/js/453.a3ba6d2e.chunk.js",
     "static/media/ran_photo.jpeg": "/RanResume/static/media/ran_photo.98491701693f11e46d10.jpeg",
     "index.html": "/RanResume/index.html",
-    "main.a708cc49.css.map": "/RanResume/static/css/main.a708cc49.css.map",
-    "main.9d2be58e.js.map": "/RanResume/static/js/main.9d2be58e.js.map",
+    "main.6fccd648.css.map": "/RanResume/static/css/main.6fccd648.css.map",
+    "main.49c801aa.js.map": "/RanResume/static/js/main.49c801aa.js.map",
     "453.a3ba6d2e.chunk.js.map": "/RanResume/static/js/453.a3ba6d2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a708cc49.css",
-    "static/js/main.9d2be58e.js"
+    "static/css/main.6fccd648.css",
+    "static/js/main.49c801aa.js"
   ]
 }
