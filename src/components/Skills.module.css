@@ -1,50 +1,45 @@
 .skills {
-    background-color: #282c34;
-    padding: 40px 20px;
-    text-align: center;
-    color:rgb(202, 201, 201);
-  }
-  
-  .skills h2 {
-    font-size: 2.5rem;
-    margin-bottom: 20px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: white;
-    margin: 0 auto;
-    text-align: center;
+  background-color: #282c34;
+  padding: 40px 20px;
+  text-align: center;
+  color: rgb(202, 201, 201);
+}
 
-  }
-  
-  .container {
-    max-width: 800px;
-    margin: 0 auto; /* Centering the container itself */
-    text-align: left;
-  }
-  
-  .skillList {
-    list-style-type: none;
-    padding: 0;
-    margin-top: 20px;
-  }
-  
-  .skillList li {
-    font-size: 1.2rem;
-    margin-bottom: 15px;
-    line-height: 1.8;
-  }
-  
-  .skillList li::before {
-    content: '•';
-    color: black; /* Adjust color as needed */
-    font-weight: bold;
-    display: inline-block;
-    width: 1em;
-    margin-left: -1em;
-    margin-right: 8px;
-  }
-  
-  .skillList strong {
-    color: white; /* Adjust color as needed */
-  }
-  
+.skills h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto; /* Centering the container itself */
+  text-align: left;
+}
+
+.skillList {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.skillItem {
+  background-color: #333;
+  border: 1px solid #444;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.skillItem strong {
+  color: white; /* Adjust color as needed */
+}
+
+.skillItem::before {
+  content: '';
+}

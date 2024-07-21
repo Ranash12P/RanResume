@@ -21,9 +21,11 @@ const Header = () => {
         <h1>Ran Polac</h1>
         <h2>B.Sc Information Systems Engineering Student</h2>
         <p>
-          A team player with a can-do attitude, proficient in Python, Excel, SQL, and PowerBI.
-          Highly passionate about technology and programming, with experience leading teams and delivering under pressure.
-          Eager to explore new fields and enhance existing skills. Ready to prove myself in the next step of my life.
+        Hey there! I'm Ran, a motivated student who is highly passionate about technology and programming .
+        Team player with a can-do attitude, proficient in Python, Excel, SQL, and PowerBI.
+        <p>
+        With experience in leading teams and delivering under pressure,
+        I am Eager to explore new fields and enhance existing skills. Ready to prove myself in the next step of my life.</p>
         </p>
         <p>Seeking any positions in related fields, available 5 days a week.</p>
       </div>
